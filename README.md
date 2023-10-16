@@ -1,1 +1,1 @@
-https://frontendshopjamp.netlify.app
+
